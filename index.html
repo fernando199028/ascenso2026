@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ascenso de Categoría 2026</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="contenedor">
+
+    <h1>📚 Ascenso de Categoría 2026</h1>
+
+    <h2>Simulador de Exámenes</h2>
+
+    <div id="pantallaInicio">
+
+        <button onclick="iniciarExamen()">
+            Iniciar Examen
+        </button>
+
+    </div>
+
+    <div id="examen" style="display:none;">
+
+        <div id="contador"></div>
+
+        <div id="pregunta"></div>
+
+        <div id="opciones"></div>
+
+        <button onclick="siguientePregunta()">
+            Siguiente
+        </button>
+
+    </div>
+
+    <div id="resultado"></div>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
