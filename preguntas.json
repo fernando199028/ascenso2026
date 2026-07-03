@@ -1,0 +1,102 @@
+[
+{
+"pregunta":"¿Qué es la innovación educativa?",
+"opciones":[
+"Un cambio planificado para mejorar la educación",
+"Solo usar computadoras",
+"Un cambio administrativo",
+"Un método de evaluación"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué estudia la neurociencia?",
+"opciones":[
+"El cerebro y el sistema nervioso",
+"Las computadoras",
+"Las matemáticas",
+"La administración"
+],
+"correcta":0
+},
+{
+"pregunta":"¿La Ley 223 protege a?",
+"opciones":[
+"Personas con discapacidad",
+"Solo docentes",
+"Solo estudiantes",
+"Funcionarios públicos"
+],
+"correcta":0
+},
+{
+"pregunta":"¿El Reglamento del Escalafón regula?",
+"opciones":[
+"La carrera docente",
+"Los impuestos",
+"La salud",
+"Las universidades privadas"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué busca el protocolo de prevención?",
+"opciones":[
+"Prevenir y atender casos de violencia",
+"Evaluar estudiantes",
+"Controlar asistencia",
+"Administrar recursos"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué promueve la educación inclusiva?",
+"opciones":[
+"La igualdad de oportunidades",
+"La exclusión",
+"La competencia",
+"La selección de estudiantes"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué favorece el neuroaprendizaje?",
+"opciones":[
+"Las emociones positivas",
+"El miedo constante",
+"El castigo",
+"La repetición mecánica"
+],
+"correcta":0
+},
+{
+"pregunta":"¿La violencia psicológica afecta?",
+"opciones":[
+"La salud emocional",
+"Solo el cuerpo",
+"Los edificios",
+"Los recursos"
+],
+"correcta":0
+},
+{
+"pregunta":"¿La innovación implica?",
+"opciones":[
+"Mejorar procesos",
+"Eliminar docentes",
+"Cerrar escuelas",
+"Reducir contenidos"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuántas preguntas tiene cada examen?",
+"opciones":[
+"10",
+"20",
+"30",
+"40"
+],
+"correcta":0
+}
+]
